@@ -1,6 +1,9 @@
 docker
 ======
 
+[![Build Status](https://travis-ci.org/dstanek/ansible-role-docker.svg?branch=master)](https://travis-ci.org/dstanek/ansible-role-docker)
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-dstanek.docker-blue.svg)](https://galaxy.ansible.com/dstanek/docker/)
+
 A simple role to install docker-engine and run the docker service. I'm just automating the installation steps from the [official Docker documentaton](https://docs.docker.com/engine/installation).
 
 Requirements
